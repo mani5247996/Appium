@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/cobertura-1.9.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/cucumber-core-1.1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/cucumber-java-1.0.0.rc21-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/gherkin-2.12.1.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/java-client-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/junit-4.12-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/junit.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/selenium-java-2.42.2.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/selenium-server-2.47.1.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Documents/Jar/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

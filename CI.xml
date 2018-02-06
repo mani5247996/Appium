@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Smoke" verbose="1" parallel="tests" thread-count="5">
+<!--   First device -->
+ <tests>
+<test  name="run on device1">
+<classes>
+<parameter name="port" value="4723"/>
+<parameter name="device" value="Demo-5556"></parameter>
+<class name="framework.parallel">
+<methods>
+<!--  <include name="login_sec"/>-->
+<!--  <include name="menu_option"/>-->
+<include name="background"/>
+
+</methods>
+</class>
+</classes>
+</test>
+</tests>
+
+<!--   Second device -->
+  <tests>
+<test  name="run on device2"><classes>
+<parameter name="port" value="4725"/>
+<parameter name="device" value="Seconddemo-5554"></parameter>
+<class name="framework.parallel">
+<methods>
+<include name="menu_option_sec"/>
+<include name="creating_menu"/>
+</methods>
+</class>
+</classes>
+</test>
+</tests>
+</suite> 
